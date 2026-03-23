@@ -32,4 +32,4 @@ El proyecto utiliza **Native Messaging API** para comunicar un entorno aislado (
 
 ## 👨‍💻 Autor
 **Leandro Espinosa**
-[Link a tu LinkedIn] | [Link a tu Portfolio/GitHub]
+www.linkedin.com/in/leandro-rub%C3%A9n-espinosa-7307541b6/ | github.com/LeoEsp31
