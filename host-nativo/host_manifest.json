@@ -1,0 +1,9 @@
+{
+  "name": "com.leo.detector_duplicados",
+  "description": "Buscador local de archivos duplicados",
+  "path": "buscador.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://jleenafbnfdmjdhhmglkfjodfebkedcg/"
+  ]
+}

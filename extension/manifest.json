@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Detector de Descargas",
+  "version": "1.0",
+  "description": "Intercepta descargas para verificar duplicados locales.",
+  "permissions": [
+    "downloads",
+    "nativeMessaging",
+    "notifications"
+  ],
+  "icons": {
+    "16": "icono.png",
+    "48": "icono.png",
+    "128": "icono.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
