@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Detector de Descargas",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Intercepta descargas para verificar duplicados locales.",
   "permissions": [
     "downloads",
